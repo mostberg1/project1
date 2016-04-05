@@ -6,3 +6,7 @@ Created by Matt Ostberg
 
 1. do this
 2. Do that
+
+## License
+
+BSD
