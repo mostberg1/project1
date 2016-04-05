@@ -10,3 +10,9 @@ Created by Matt Ostberg
 ## License
 
 BSD
+
+## Example
+
+print 'hello world'
+
+## some other junk
